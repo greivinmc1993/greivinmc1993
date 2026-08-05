@@ -31,12 +31,11 @@ Siempre en constante aprendizaje y comprometido con la creación de soluciones e
 - Figma
 - Gimp
 - Python (Intermedio)
+
+🛜 También cuento con conocimientos en:
+
 - IT Essentials v7
 - Network Associate (CCNA)
-
-🐍 También cuento con conocimientos en:
-
-- Python (Intermedio)
 
 📚 Actualmente continúo fortaleciendo mis habilidades en desarrollo web, automatización, buenas prácticas de programación y nuevas tecnologías.
 
@@ -123,7 +122,7 @@ Siempre en constante aprendizaje y comprometido con la creación de soluciones e
 
 🏆 Cisco IT Essentials v7
 
-🏆 Técnico en Auxiliar de Contabilidad
+🏆 Python Intermedio
 
 ---
 
