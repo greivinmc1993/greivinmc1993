@@ -25,6 +25,14 @@ Siempre en constante aprendizaje y comprometido con la creación de soluciones e
 - React (Intermedio)
 - Sass
 - Less
+- Node.js
+- Git
+- Github
+- Figma
+- Gimp
+- Python (Intermedio)
+- IT Essentials v7
+- Network Associate (CCNA)
 
 🐍 También cuento con conocimientos en:
 
@@ -42,7 +50,7 @@ Siempre en constante aprendizaje y comprometido con la creación de soluciones e
 <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,python,git,github,vscode,nodejs,figma,gimp" />
 </p>
 
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=F9f9f9) 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) 
 
 ### Redes y Sistemas
